@@ -1,0 +1,11 @@
+{
+  "name": "math-ai-tutor",
+  "version": "1.0.0",
+  "description": "AI 数学教练后端服务",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
